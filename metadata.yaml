@@ -1,0 +1,27 @@
+_repo: Slavery-s-Passed-Away-and-Other-Songs_17773
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf: Music
+gutenberg_issued: '2006-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17773'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slavery -- United States -- Songs and music'
+- !lcc 'M'
+- !lcsh 'Slaves -- Emancipation -- United States -- Songs and music'
+title: Slavery's Passed Away and Other Songs
+url: http://www.gutenberg.org/ebooks/17773
